@@ -1,2 +1,3 @@
 # blinkit
-Blinkit/Screenshot 2026-04-15 113341.png
+https://github.com/KishoreData/blinkit/blob/main/Blinkit/Screenshot%202026-04-15%20113341.png
+
